@@ -1,3 +1,6 @@
+![image](https://github.com/olatunde222/Unit-converter/assets/115417709/9860dfa8-bb51-4562-985e-f0965a8bf8bb)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
